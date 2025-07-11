@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "pinterest_clone (Flutter)",
+            "program": "lib/main.dart",
+            "cwd": "pinterest_clone",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
